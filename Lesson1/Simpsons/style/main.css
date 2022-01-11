@@ -1,0 +1,53 @@
+body{
+    background: #87fcf0;
+    font-family: Arial;
+    color: #212121;
+}
+
+h1{
+    color: #ffff0c;
+    text-shadow: 0 0 5px #000000;
+    font-size: 50pt;
+}
+h2{
+    font-size:40pt;
+    text-shadow: 0 0 3px #000000;
+}
+#bartH2{
+    color:darkred;
+}
+.description{
+    font-size:20pt
+}
+img{
+    height:300px;
+}
+
+#homerH2{
+    color:white;
+}
+#lisaH2{
+    color:red;
+}
+#MargeH2{
+    color:dodgerblue;
+
+}
+
+#MaggieH2{
+    color:lightskyblue;
+}
+ul>li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+ul>li>a{
+    font-size: 20pt;
+    text-shadow: 0 0 3px #642712;
+    color: #642712;
+}
+h2>a{
+    color:inherit;
+}
