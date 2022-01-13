@@ -1,0 +1,35 @@
+body{
+    background:#252525;
+    font-family: Arial;
+    margin: 0 auto;
+}
+
+div{
+    font-size:30pt;
+    background: none;
+    width: fit-content;
+    box-sizing: border-box;
+    padding: 15px 70px;
+    margin: 20px auto;
+    border-radius: 50px;
+    border: solid 5px;
+}
+
+#div1{
+    margin-top: 300px;
+    border-color: #EF671B;
+    color: #EF671B;
+}
+
+#div2{
+    border-color: #26DBD0;
+    color: #26DBD0;
+}
+#div3{
+    border-color: #F2509E;
+    color: #F2509E;
+}
+#div4{
+    border-color: #FF3E3E;
+    color: #FF3E3E;
+}
