@@ -1,0 +1,36 @@
+body{
+    margin: 5px 0 0 0 ;
+    border-top: 1px solid #F0F0F0;
+    box-sizing: border-box;
+    padding: 0 15px;
+}
+p{
+    font-size: 15pt;
+    box-sizing: border-box;
+    margin:0;
+}
+h1{
+    background: #892726;
+    margin: 25px 0;
+    color: #FDE9CF;
+    text-align: center;
+}
+#p1{
+    background: #C0C0C0;
+    padding: 20px;
+}
+#p2{
+    background: #6395EC;
+    padding: 40px 0;
+}
+div{
+    height: 250px;
+    width:250px;
+}
+#div1{
+    background:#6BBA67;
+}
+#div2{
+    background:#8886AB;
+    border-radius: 20px;
+}
