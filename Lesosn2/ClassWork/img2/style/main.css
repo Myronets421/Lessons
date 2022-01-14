@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+}
+
+.target{
+    height: 150px;
+    width: 150px;
+    background:#FFAA00 ;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: Arial;
+    float:left;
+    font-size: 15pt;
+    margin: 20px;
+    padding-top: 60px;
+    border: solid 1px black;
+}
+
+
+#div1{
+    box-shadow: 20px 20px 1px #464646;
+}
+#div2{
+    box-shadow: 20px 20px 5px #464646;
+}
+
+#div3{
+    box-shadow:25px 20px 5px #464646;
+}
+
+#div4{
+    box-shadow:25px 20px 5px #9E9E9E;
+}
+#div5{
+    box-shadow: 20px 20px 5px #464646;
+    border-radius: 10px;
+}
+#div6{
+    box-shadow: 20px 20px 5px #9E9E9E;
+    border-radius: 10px;
+}
+
+#container{
+    width:570px;
+}
